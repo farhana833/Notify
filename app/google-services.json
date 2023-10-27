@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "936334120284",
+    "firebase_url": "https://notify-fbase-default-rtdb.firebaseio.com",
+    "project_id": "notify-fbase",
+    "storage_bucket": "notify-fbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936334120284:android:8732295c648cb64eacdd99",
+        "android_client_info": {
+          "package_name": "com.example.notify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936334120284-7flpv0njdlu3o57qgjshu691qearahje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo1yVZX7SDvQg7y4BspubahHsJWg9TeQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936334120284-7flpv0njdlu3o57qgjshu691qearahje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

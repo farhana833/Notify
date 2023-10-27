@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Notify</string>
+    <string name="select">Select Year</string>
+    <string-array name="options">
+        <item>1st Year</item>
+        <item>2nd Year</item>
+        <item>3rd Year</item>
+        <item>4th Year</item>
+        <item>5th Year</item>
+        <item>All</item>
+    </string-array>
+    <string name="title">This is Expandable CardView Title </string>
+    <string name="dis">This is completely an example of description message</string>
+</resources>
